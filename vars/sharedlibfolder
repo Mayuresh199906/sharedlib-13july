@@ -1,0 +1,4 @@
+def call(name){
+echo "hi ${'name'} you r watching shared libs"
+
+}
